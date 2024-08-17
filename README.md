@@ -1,4 +1,11 @@
 # Meetup 17 working repository
+
+The files in this repo are used in the series of videos (3 from the meetup itself, and much more from its preparation, that appear after them in the playlist) in https://www.youtube.com/watch?v=NQz6VqvtehI&list=PLBaH8x4hthVysdRTOlg2_8hL6CWCnN5l-&index=47
+
+The videos have done **much more** than what is written below in this readme, but the files in the repo are accurate, and can be used.
+If anyone actually uses them, except for me, please let me know, and you are of course welcome to contribute. 
+
+
 The objective of this repo is to be a place where static binaries that I intend to demo in meetup #17 can be at, so you can reproduce the demos at your will.
 
 As per the time of writing the idea is:
