@@ -1,0 +1,31 @@
+# History file for (at least some of the) installations done in the full image
+apt-get install udev --no-install-recommends
+apt-get install weston --no-install-recommends
+apt-get install vim --no-install-recommends
+apt-get update # after adding universe
+apt-get install weston --no-install-recommends
+apt-get install libglx-mesa0 --no-install-recommends
+apt-get install iproute2
+apt-get install iputils-ping
+apt-get install pciutils
+apt-get install usbutils
+apt-get install --no-install-recommends vim
+apt-get install isc-dhcp-client --no-install-recommends
+apt-get install ssh
+apt-get qt6-connectivity-examples install qml6-module-qtqml-workerscript qml6-module-qtquick-window qml6-module-qtqml-statemachine  qml6-module-qt5compat-graphicaleffects qml6-module-qtqml-workerscript
+apt-get install qt6-connectivity-examples  qml6-module-qtqml-workerscript qml6-module-qtquick-window qml6-module-qtqml-statemachine  qml6-module-qt5compat-graphicaleffects qml6-module-qtqml-workerscript
+apt-get install iw
+apt-get install wpasupplicant
+apt-get install bluez
+apt-get install rfkill
+apt-get install ubuntu-gnome-desktop --no-install-recommends
+apt-get install plasma-desktop --no-install-recommends
+apt-get install vkcube
+apt-cache search vkcube
+apt-get install vulkan-tools
+apt-get install mesa-utils
+apt-get install kmscube
+apt-get install mesa-vulkan-drivers
+apt-get install qtcreator --no-install-recommends
+apt-get install file
+
